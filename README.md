@@ -1,1 +1,1 @@
-xxx
+Tento repozitáø jsem si založila proto, že je to v zadání 3. úkolu lekce Publikování na webu a základní nastavení v pøedmìtu Nástroje a možnosti internetu. 
